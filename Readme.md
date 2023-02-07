@@ -1,4 +1,4 @@
-## [代码]**C++ driver for Continental ARS408/404 Radar**
+## **C++ driver for Continental ARS408/404 Radar**
 
 This is a C++ driver for Continental ARS 408-21 (ARS404-21/SRR308) automotive radar. The code is tested on Raspberry Pi 4B and X86 Linux.
 
@@ -16,7 +16,7 @@ This is a C++ driver for Continental ARS 408-21 (ARS404-21/SRR308) automotive ra
 3.  clone this repo.
 
    ```shell
-   git clone https://github.com/AtsushiSakai/PythonRobotics.git
+   git clone https://github.com/YoungCapta1n/mmWaveRadar.git
    ```
 
 4. Create `build` directory and change directory
@@ -38,8 +38,7 @@ This is a C++ driver for Continental ARS 408-21 (ARS404-21/SRR308) automotive ra
 
 ## Bug reports and support
 
-Please report any issues via the [Github issue tracker](https://github.com/osqp/osqp/issues). All types of issues are welcome including bug reports, documentation typos, feature requests and so on.
-
+Please report any issues via the [Github issue tracker](https://github.com/YoungCapta1n/mmWaveRadar/issues). All types of issues are welcome including bug reports, documentation typos, feature requests and so on.
 
 
 
