@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -Wall -Wextra -Wno-psabi -g -ggdb -pedantic CMakeFiles/mmWaveRadarConfig.dir/mmWaveRadarConfig.cc.o -o mmWaveRadarConfig   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lcontrolcan 

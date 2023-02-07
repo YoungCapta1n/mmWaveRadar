@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -Wall -Wextra -Wno-psabi -g -ggdb -pedantic CMakeFiles/mmWaveRadar_test.dir/mmWaveRadar_test.cc.o -o mmWaveRadar_test 
